@@ -18,6 +18,7 @@ Description:
       `Not working in progress`
 
 ===============================================================================
+
 Credits:
    * Program written by Owen Giles
 
@@ -35,6 +36,7 @@ Credits:
       libcurl, and cJSON
 
 ===============================================================================
+
 Directions:
    1. Make sure raylib is downloaded
       * https://www.raylib.com/
