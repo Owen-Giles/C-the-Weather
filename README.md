@@ -17,7 +17,7 @@ Description:
    * To compile on Windows
       `Not working in progress`
 
-===============================================================================
+--------------------------------------------------------------------------------
 
 Credits:
    * Program written by Owen Giles
@@ -35,7 +35,7 @@ Credits:
    * Special thanks to all the open-source authors and maintainers of raylib, 
       libcurl, and cJSON
 
-===============================================================================
+---------------------------------------------------------------------------------
 
 Directions:
    1. Make sure raylib is downloaded
