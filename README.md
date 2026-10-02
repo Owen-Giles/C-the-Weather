@@ -1,4 +1,4 @@
-                                C the Weather
+C the Weather
 ===============================================================================
 Description:
    This program is written in C using the raylib library to take care of the UI
