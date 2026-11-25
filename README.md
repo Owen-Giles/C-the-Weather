@@ -39,7 +39,8 @@ Directions:
    1. Make sure raylib is downloaded
       * https://www.raylib.com/
 
-   2. Get an API key from OpenWeatherMap (it can take some time)
+   2. Get an API key from OpenWeatherMap (it can take some time) and add to a
+       'apiKey.txt' file 
 
    3. Run the given compile and run command 
 
