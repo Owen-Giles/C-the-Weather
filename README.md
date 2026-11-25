@@ -1,5 +1,5 @@
-                                C the Weather
-===============================================================================
+C the Weather
+-------------------------------------------------------------------------------
 Description:
    This program is written in C using the raylib library to take care of the UI
    and GUI. It uses an API to find your IP address to locate where you are then
@@ -17,7 +17,7 @@ Description:
    * To compile on Windows
       `Not working in progress`
 
-===============================================================================
+-------------------------------------------------------------------------------
 Credits:
    * Program written by Owen Giles
 
@@ -34,7 +34,7 @@ Credits:
    * Special thanks to all the open-source authors and maintainers of raylib, 
       libcurl, and cJSON
 
-===============================================================================
+-------------------------------------------------------------------------------
 Directions:
    1. Make sure raylib is downloaded
       * https://www.raylib.com/
